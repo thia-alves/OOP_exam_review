@@ -7,12 +7,13 @@
 
 **Why I awarded this mark:** I got the first and second part of the workshop class working but I 
 did not get the third part working, this makes it so I think I got 30 marks for the first one
+. i made a fixed value for workshop and capacity so i assume that lost me marks for the third part of task 1.
 
 ### Task 2 — /40
 **My mark:** 0
 
 **Why I awarded this mark:** I was close to finnishing the first part of task 2 but i never got it fully right,
-so I dont think i got any marks for task 2 at all
+so I dont think i got any marks for task 2 at all, i messed up the hashset and didnt know how to use it correctly which meant i couldnt get past the first part of task 2
 
 
 ### Task 3 — /20
