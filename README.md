@@ -35,12 +35,12 @@ Scanner scan = new Scanner(System.in);
 
 This doesnt work in workshop which was part of the reason my code wasnt working
 i got rid of it from workshop
-## second
+## second mistake
 Workshop setWorkshop = new Workshop("work",32);
 
 my workshop value was just fixed instead of anything that was put in which clearly doesnt work
 , i got rid of this line entirely 
-## third
+## third mistake
 for(int i = 0; i < registrations; i++){
 int studentsID = Integer.parseInt(scan.nextLine());
 }
