@@ -57,16 +57,19 @@ soulition was to use a string and i probbaly wouldve solved it
 but struggle to implement?** 
 
 the scanner i knew how it worked but i just put it in the wrong location and sometimes just messed up with it in the exam
+losing me a lot of time to something that shouldve been simple adn i shoulve understood.
 
 **What was the most important thing you learned
 from correcting your code?** 
 
-how a hash set works and hoe to implement it into code during the exam i didnt understand fully how it worked whcih lost me many marks
+how a hash set works and how to implement it into code during the exam i didnt understand fully how it worked whcih lost me many marks
+. if i knew how that worked i couldve gotten part 2 finnished instead of using all my time trying to understand how it worked
 
 **What would you do differently in your next
 coding test?** 
 
 pay more attention to labels of the classes like string and write more code in genral instead of sitting there confused 
+. i wouldnt put my code in the wrong class like this time.
 
 ---
 
