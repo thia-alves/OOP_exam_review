@@ -1,7 +1,6 @@
 package ie.atu.oop.week2;
 
 import java.util.HashSet;
-import java.util.Scanner;
 
 public class Workshop {
     private String WorkshopName;
@@ -33,11 +32,14 @@ public class Workshop {
     }
 
 
-    public void setStudentsID(HashSet<String> studentsID) {
-        Scanner scan = new Scanner(System.in);
-        int registrations = Integer.parseInt(scan.nextLine());
-        for(int i = 0; i < registrations; i++){
-
+    public void display(int at){
+        System.out.println("WorkshopName" + WorkshopName);
+        System.out.println("Reg Students");
+        for (String studentID : studentsID) {
+            System.out.println(studentID);
         }
+        System.out.println("accepted" + studentsID.size());
+        System.out.println("rejected" + (at - studentsID.size()));
+        System.out.println("remmaining" + (capacity - studentsID.size()));
     }
 }
